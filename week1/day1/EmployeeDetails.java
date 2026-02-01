@@ -16,7 +16,7 @@ public class EmployeeDetails {
    System.out.println("Name:"+name);
    System.out.println("Age:"+age);
    System.out.println("Salary:"+salary);
-   System.out.println("Gender"+gender);
+   System.out.println("Gender:"+gender);
    System.out.println("Accept Terms:"+acceptTerms);
    System.out.println("Rating:"+rating);
    System.out.println("Mobile Number:"+ mobileNumber);
@@ -34,3 +34,4 @@ public class EmployeeDetails {
 	}
 
 }
+
